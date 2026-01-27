@@ -1,6 +1,6 @@
 # Composting Process Monitoring: IoT Sensor Anomaly Detection
 
-**Author:** [Your Name]  
+**Author:** Sydney Seiter  
 **Date:** January 2026  
 **Context:** Prepared for COMPOST2026 Conference
 
@@ -77,7 +77,7 @@ project2-sensor-anomaly-detection/
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/composting-anomaly-detection.git
+git clone https://github.com/Buffy686/composting-anomaly-detection.git
 cd composting-anomaly-detection
 
 # Create virtual environment
@@ -143,7 +143,7 @@ This framework demonstrates:
 
 ## Contact & Collaboration
 
-Interested in implementing sensor-based monitoring at your facility? Let's discuss at COMPOST2026 or connect via [LinkedIn/Email].
+Interested in implementing sensor-based monitoring at your facility? Let's discuss at COMPOST2026 or connect via sydney.seiter22@gmail.com.
 
 ---
 
