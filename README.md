@@ -360,7 +360,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use these frameworks or methodologies in your work, please cite:
 ```
 [Sydney Seiter]. (2026). Composting Industry Data Science Portfolio. 
-GitHub repository: https://github.com/[your-username]/COMPOST2026_DATA
+GitHub repository: https://github.com/Buffy686/COMPOST2026_DATA
 ```
 
 ---
