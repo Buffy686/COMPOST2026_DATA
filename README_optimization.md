@@ -1,6 +1,6 @@
 # Organics Collection Route Optimization
 
-**Author:** [Your Name]  
+**Author:** Sydney Seiter  
 **Date:** January 2026  
 **Context:** Prepared for COMPOST2026 Conference
 
@@ -73,7 +73,7 @@ project3-route-optimization/
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/organics-route-optimization.git
+git clone https://github.com/Buffy686/organics-route-optimization.git
 cd organics-route-optimization
 
 # Create virtual environment
@@ -163,7 +163,7 @@ This framework demonstrates:
 
 ## Contact & Collaboration
 
-Interested in optimizing your municipality's organics collection routes? Let's discuss implementation strategies at COMPOST2026 or connect via [LinkedIn/Email].
+Interested in optimizing your municipality's organics collection routes? Let's discuss implementation strategies at COMPOST2026 or connect via sydney.seiter22@gmail.com.
 
 ---
 
