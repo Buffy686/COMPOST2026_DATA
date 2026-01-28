@@ -1,6 +1,6 @@
 # US Composting Policy Database & Geospatial Analysis
 
-**Author:** [Your Name]  
+**Author:** Sydney Seiter 
 **Date:** January 2026  
 **Context:** Prepared for COMPOST2026 Conference
 
@@ -80,7 +80,7 @@ project1-policy-database/
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/composting-policy-database.git
+git clone https://github.com/Buffy686/composting-policy-database.git
 cd composting-policy-database
 
 # Create virtual environment
@@ -112,9 +112,9 @@ This analysis framework can help:
 
 ## Contact & Collaboration
 
-Interested in collaborating on composting policy analysis? Let's connect at COMPOST2026 or reach out via [LinkedIn/Email].
+Interested in collaborating on composting policy analysis? Let's connect at COMPOST2026 or reach out via sydney.seiter22@gmail.com.
 
 ---
 
 **License:** MIT  
-**Citation:** If you use this analysis framework, please cite: [Your Name]. (2026). US Composting Policy Database & Geospatial Analysis. GitHub repository.
+**Citation:** If you use this analysis framework, please cite: Sydney Seiter. (2026). US Composting Policy Database & Geospatial Analysis. GitHub repository.
