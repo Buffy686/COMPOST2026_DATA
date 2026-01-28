@@ -148,7 +148,7 @@ Interested in implementing sensor-based monitoring at your facility? Let's discu
 ---
 
 **License:** MIT  
-**Citation:** If you use this anomaly detection framework, please cite: [Your Name]. (2026). Composting Process Monitoring: IoT Sensor Anomaly Detection. GitHub repository.
+**Citation:** If you use this anomaly detection framework, please cite: Sydney Seiter. (2026). Composting Process Monitoring: IoT Sensor Anomaly Detection. GitHub repository.
 
 **Acknowledgments:** Based on research from:
 - Liu et al. (2025) - Data-driven smart composting techniques
