@@ -168,7 +168,7 @@ Interested in optimizing your municipality's organics collection routes? Let's d
 ---
 
 **License:** MIT  
-**Citation:** If you use this route optimization framework, please cite: [Your Name]. (2026). Organics Collection Route Optimization. GitHub repository.
+**Citation:** If you use this route optimization framework, please cite: Sydney Seiter. (2026). Organics Collection Route Optimization. GitHub repository.
 
 **Acknowledgments:** Optimization algorithms based on:
 - Google OR-Tools VRP solver
